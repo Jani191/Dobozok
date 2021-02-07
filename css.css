@@ -39,14 +39,10 @@ p{text-align: justify;
 span:nth-child(1){color:dodgerblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
-
-
 }
-span:nth-child(3) {color:dodgerblue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bolder;
-
-
+span:nth-child(1){color:dodgerblue;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bolder;
 }
 
 span:nth-child(2) {color: crimson;
